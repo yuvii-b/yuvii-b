@@ -3,7 +3,7 @@ I'm Yuvaraj from Chennai, India.<br><br>- 🔭 I’m a CSE undergradutate studen
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](/https://instagram.com/bytemaverick_0x11) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bytemaverick_0x11) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj2806)
 
 # 💻 Tech Stack:
