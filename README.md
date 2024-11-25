@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yuvaraj from Chennai, India.<br><br>- 🔭 I’m a CSE undergradutate student at MIT<br>- 📚 I'm currently learning C and basic web development<br>- ⚡ In my free time I learn various tech stacks and implement them in small projects
+I'm Yuvaraj from Chennai, India.<br><br>- 🔭 I’m a CSE undergrad student at MIT<br>- 📚 I'm currently learning C and basic web development<br>- ⚡ In my free time I learn various tech stacks and implement them in small projects
 
 
 ## 🌐 Socials:
