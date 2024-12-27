@@ -1,6 +1,6 @@
 #  👨‍💻 About Me:
 I'm Yuvaraj, a passionate tech enthusiast from Chennai, India.  
-- 🌱 Currently diving into **C programming** and **Java programming**.  
+- 🌱 Currently exploring **C programming** and **Java programming**.  
 - ⚡ I love experimenting with tech stacks and building small, impactful projects.  
 
 ## 🌐 Connect With Me:
