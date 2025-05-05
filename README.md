@@ -1,7 +1,8 @@
 #  👨‍💻 About Me:
 I'm Yuvaraj, a passionate tech enthusiast from Chennai, India.  
 - 🌱 Currently exploring **C++ programming** and **Java programming**.  
-- ⚡ I love experimenting with tech stacks and building small, impactful projects.  
+- ⚡ I love experimenting with tech stacks and building small, impactful projects.
+- 🚀 Always eager to learn, collaborate, and grow in the world of development.
 
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuviiii.b) 
