@@ -1,7 +1,7 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## 👨‍💻 About Me
 
-<img src="./coding.gif" alt="coding gif" height="200px" align="right" style="margin-left: 20px;"/>
+<img src="./coding.gif" alt="coding gif" height="175px" align="right" style="margin-left: 20px;"/>
 
 I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna University](https://www.annauniv.edu/), Chennai.
 
