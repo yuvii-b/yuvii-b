@@ -1,37 +1,67 @@
-#  👨‍💻 About Me:
-I'm Yuvaraj, a passionate tech enthusiast from Chennai, India.  
-- 🌱 Currently exploring **C++ programming** and **Java programming**.  
-- ⚡ I love experimenting with tech stacks and building small, impactful projects.
-- 🚀 Always eager to learn, collaborate, and grow in the world of development.
+<!-- ======================= ABOUT ME ======================= -->
+## 👨‍💻 About Me
 
-## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuviiii.b) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj2806)
+<img src="./coding.gif" alt="coding gif" height="200px" align="right" style="margin-left: 20px;"/>
 
-## 💻 Tech Stack:
-### Programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna University](https://www.annauniv.edu/), Chennai.
 
-### Databases:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🌱 Currently exploring **DSA** and **Spring Boot Development**  
+- ⚡ I love experimenting with tech stacks and building small, impactful projects  
+- 🚀 Always eager to learn, collaborate, and grow in the world of development  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yuvii-b&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuvii-b&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ======================= CONNECT WITH ME ======================= -->
+## 🌐 Lets get connected:
+<p align="center">
+  <a href="https://linkedin.com/in/yuvaraj2806" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yuvaraj.codes@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/yuviiii.b" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvii-b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ======================= TECH STACK ======================= -->
+## 💻 Technologies and Tools I use:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,mysql,sqlite,mongodb,flask,html,css,bash,md,linux,git,github,githubactions,vscode,idea,postman&perline=10" />
+  </a>
+</p>
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvii-b&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvii-b&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yuvii-b&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ======================= GITHUB TROPHIES ======================= -->
+## 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvii-b&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
 
+<!-- ======================= RANDOM DEV QUOTE ======================= -->
+### ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<!-- ======================= TOP CONTRIBUTED REPOS ======================= -->
+### 🔝 Top Contributed Repos:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yuvii-b&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<!-- ======================= PROFILE VISIT COUNT ======================= -->
 ---
-[![](https://visitcount.itsvg.in/api?id=yuvii-b&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><b>Profile Views</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/yuvii-b/count.svg" alt="visitor badge"/></p>
+<br/>
