@@ -24,13 +24,13 @@ I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna 
 <!-- ======================= CONNECT WITH ME ======================= -->
 ## 🌐 Lets get connected:
 <p align="center">
-  <a href="https://linkedin.com/in/yuvaraj2806" target="_blank";">
+  <a href="https://linkedin.com/in/yuvaraj2806" target="blank"">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yuvaraj.codes@gmail.com" target="_blank";">
+  <a href="mailto:yuvaraj.codes@gmail.com" target="blank"">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="30" alt="Mail"/>
   </a>
-  <a href="https://instagram.com/yuviiii.b" target="_blank";">
+  <a href="https://instagram.com/yuviiii.b" target="blank"">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram"/>
   </a>
 </p>
