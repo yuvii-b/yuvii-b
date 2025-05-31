@@ -72,6 +72,12 @@ I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna 
   <img src="https://github-contributor-stats.vercel.app/api?username=yuvii-b&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
+</picture>
+
 <!-- ======================= PROFILE VISIT COUNT ======================= -->
 ---
 <p align="center"><b>Profile Views</b></p>
