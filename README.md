@@ -1,24 +1,36 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## 👨‍💻 About Me
 
-<img src="./coding.gif" alt="coding gif" height="175px" align="right" style="margin-left: 20px;"/>
+<img src="./coding.gif" height="290px" align="right" />
 
 I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna University](https://www.annauniv.edu/), Chennai.
 
-- 🌱 Currently exploring **DSA** and **Spring Boot Development**  
-- ⚡ I love experimenting with tech stacks and building small, impactful projects  
-- 🚀 Always eager to learn, collaborate, and grow in the world of development  
+- 🔭 I’m currently working on `DSA`.
+
+- 🌱 I’m currently learning `Spring Boot Development`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Frontend Development`
+
+- 💬 Ask me about anything, except why my code doesn't work on the first try 😅
+
+- 👨‍💻  Life Hack: Stack Overflow is my best friend and mentor 🤝💻
+
+- ⚡  Fun fact: I write code and the bugs write back 🐞☕
+
+<br>
 
 <!-- ======================= CONNECT WITH ME ======================= -->
 ## 🌐 Lets get connected:
 <p align="center">
-  <a href="https://linkedin.com/in/yuvaraj2806" target="_blank">
+  <a href="https://linkedin.com/in/yuvaraj2806" target="_blank";">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yuvaraj.codes@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30" alt="LinkedIn"/>
+  <a href="mailto:yuvaraj.codes@gmail.com" target="_blank";">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="30" alt="Mail"/>
   </a>
-  <a href="https://instagram.com/yuviiii.b" target="_blank">
+  <a href="https://instagram.com/yuviiii.b" target="_blank";">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram"/>
   </a>
 </p>
