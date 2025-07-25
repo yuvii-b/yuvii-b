@@ -54,18 +54,6 @@ I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- ======================= GITHUB TROPHIES ======================= -->
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvii-b&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
-<!-- ======================= RANDOM DEV QUOTE ======================= -->
-### ✍️ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 <!-- ======================= TOP CONTRIBUTED REPOS ======================= -->
 ### 🔝 Top Contributed Repos:
 <p align="center">
@@ -77,9 +65,3 @@ I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
 </picture>
-
-<!-- ======================= PROFILE VISIT COUNT ======================= -->
----
-<p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/yuvii-b/count.svg" alt="visitor badge"/></p>
-<br/>
