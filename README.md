@@ -5,17 +5,15 @@
 
 I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna University](https://www.annauniv.edu/), Chennai.
 
-- 🔭 I’m currently working on `DSA`.
+- 🔭 Currently exploring `Algorithms` and `System Design`.
 
 - 🌱 I’m currently learning `Spring Boot Development`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 🌍 I’m an `Open-Source Enthusiast` who loves contributing and collaborating with the community
 
-- 🤔 I’m looking for help with `Frontend Development`
+- 💡 Learning and experimenting with `Frontend Development`
 
 - 💬 Ask me about anything, except why my code doesn't work on the first try 😅
-
-- 👨‍💻  Life Hack: Stack Overflow is my best friend and mentor 🤝💻
 
 - ⚡  Fun fact: I write code and the bugs write back 🐞☕
 
@@ -50,12 +48,14 @@ I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna 
   <img src="https://github-readme-stats.vercel.app/api?username=yuvii-b&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvii-b&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <!-- <br/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" /> -->
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
+  </picture>
+</p>
