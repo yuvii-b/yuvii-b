@@ -42,6 +42,10 @@ I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna 
 </p>
 <br>
 
+<!-- ======================= HOLOPIN BADGES ======================= -->
+## 🌟 Holopin Badges:
+[![An image of @yuviib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yuviib)](https://holopin.io/@yuviib)
+
 <!-- ======================= GITHUB STATS ======================= -->
 ## 📊 GitHub Stats:
 <p align="center">
