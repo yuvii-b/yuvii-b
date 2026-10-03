@@ -1,65 +1,97 @@
-<!-- ======================= ABOUT ME ======================= -->
-## 👨‍💻 About Me
+<div align="center">
 
-<img src="./coding.gif" height="290px" align="right" />
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yuvaraj+%F0%9F%91%8B;Computer+Science+Engineer;Systems+%7C+Algorithms+%7C+Backend;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
-I'm **Yuvaraj**, pursuing my _BE_ in Computer Science Engineering at MIT, [Anna University](https://www.annauniv.edu/), Chennai.
+<br/>
 
-- 🔭 Currently exploring `Algorithms` and `System Design`.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" width="100%"/>
 
-- 🌱 I’m currently learning `Spring Boot Development`
+</div>
 
-- 🌍 I’m an `Open-Source Enthusiast` who loves contributing and collaborating with the community
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="top">
 
-- 💡 Learning and experimenting with `Frontend Development`
+### 🧭 About Me
 
-- 💬 Ask me about anything, except why my code doesn't work on the first try 😅
+I'm **Yuvaraj**, a Computer Science Engineering student at **MIT, Anna University**, Chennai — building systems, breaking them, and figuring out why.
 
-- ⚡  Fun fact: I write code and the bugs write back 🐞☕
+```yaml
+role:        CSE Undergraduate
+focus:       Algorithms & System Design
+learning:    Spring Boot, Frontend Engineering
+exploring:   Open Source Contribution
+currently:   Shipping something, probably at 2 AM
+fun_fact:    "I write code, the bugs write back 🐞"
+```
 
-<br>
+</td>
+<td width="40%" valign="top" align="center">
 
-<!-- ======================= CONNECT WITH ME ======================= -->
-## 🌐 Lets get connected:
+<img src="https://github-readme-stats.vercel.app/api?username=yuvii-b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚙️ Tech Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/yuvaraj2806" target="blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Yuvi_0x11" target="blank">
-    <img src="https://img.icons8.com/fluency/48/twitter.png" width="30" alt="twitter"/>
-  </a>
-  <a href="https://instagram.com/yuviiii.b" target="blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,mysql,sqlite,mongodb,flask,html,css,bash,linux,git,github,githubactions,vscode,idea,postman&perline=10" />
 </p>
 
-<!-- ======================= TECH STACK ======================= -->
-## 💻 Technologies and Tools I use:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,spring,mysql,sqlite,mongodb,flask,html,css,bash,md,linux,git,github,githubactions,vscode,idea,postman&perline=10" />
-  </a>
-</p>
-<br>
+<br/>
 
-<!-- ======================= HOLOPIN BADGES ======================= -->
-## 🌟 Holopin Badges:
-[![An image of @yuviib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yuviib)](https://holopin.io/@yuviib)
+### 📈 GitHub Analytics
 
-<!-- ======================= GITHUB STATS ======================= -->
-## 📊 GitHub Stats:
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yuvii-b&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvii-b&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <!-- <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvii-b&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvii-b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="40%"/>
 </p>
+
+<br/>
+
+### 🐍 Contribution Graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yuvii-b/yuvii-b/output/github-snake.svg" width="100%"/>
   </picture>
 </p>
+
+<br/>
+
+### 🏅 Badges
+
+<p align="center">
+  <a href="https://holopin.io/@yuviib">
+    <img src="https://holopin.me/yuviib" alt="Holopin badges" />
+  </a>
+</p>
+
+<br/>
+
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yuvaraj2806" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Yuvi_0x11" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yuviiii.b" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%"/>
+
+</div>
